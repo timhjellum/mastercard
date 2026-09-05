@@ -1,5 +1,5 @@
 # mastercard---case-study #
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/case-study/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0221f8e-e01d-4bb7-aa08-5edd9b5169b2/deploy-status)](https://app.netlify.com/projects/mastercard-case-study/deploys)
 
 
 
