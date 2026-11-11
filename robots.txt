@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mastercard-case-study.netlify.app/sitemap.xml
